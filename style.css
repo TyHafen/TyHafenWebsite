@@ -752,8 +752,8 @@ textarea {
 }
 
 .header__logo-img-cont {
-    width: 5rem;
-    height: 5rem;
+    width: 9rem;
+    height: 9rem;
     border-radius: 50px;
     overflow: hidden;
     margin-right: 1.5rem;
@@ -1001,8 +1001,8 @@ textarea {
 }
 
 .icon2 {
-    width: 90px;
-    height: 90px;
+    width: 110px;
+    height: 110px;
     transition: transform 0.3s ease-in-out;
 }
 
