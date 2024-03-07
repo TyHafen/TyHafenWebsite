@@ -1000,6 +1000,12 @@ textarea {
     transition: transform 0.3s ease-in-out;
 }
 
+.icon2 {
+    width: 90px;
+    height: 90px;
+    transition: transform 0.3s ease-in-out;
+}
+
 .linkedin:hover,
 .gmail:hover {
     transform: scale(1.1);
